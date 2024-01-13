@@ -1,0 +1,37 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 75px;
+  background-color: #ffffff;
+}
+
+.icon-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.bag-icon {
+  border-color: black;
+  border-style: solid;
+  border-radius: 100%;
+  border-width: 1px;
+  padding: 3px;
+}
+
+.heart-icon {
+  border-color: black;
+  border-style: solid;
+  border-radius: 100%;
+  border-width: 1px;
+  padding: 3px;
+}
+
+.user-icon {
+  border-color: black;
+  border-style: solid;
+  border-radius: 100%;
+  border-width: 1px;
+  padding: 3px;
+}
