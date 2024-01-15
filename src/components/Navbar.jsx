@@ -35,7 +35,7 @@ function Navbar() {
           <Search />
         </div>
         <div className="menu">
-          <span>MENU</span>
+          <span className="menu-text">MENU</span>
           <Menu />
         </div>
       </div>
