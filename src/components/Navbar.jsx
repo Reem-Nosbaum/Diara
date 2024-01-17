@@ -7,7 +7,7 @@ import LetterR from "../assets/LetterR";
 import Menu from "../assets/Menu";
 import Search from "../assets/Search";
 import UserIcon from "../assets/UserIcon";
-import "../styles/navbar.css";
+import "../styles/Navbar.css";
 
 function Navbar() {
   return (
