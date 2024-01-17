@@ -1,5 +1,5 @@
 import BagIcon from "../assets/BagIcon";
-import HeartIcon from "../assets/HeartIcon.JSX";
+import HeartIcon from "../assets/HeartIcon.jsx";
 import LetterA from "../assets/LetterA";
 import LetterD from "../assets/LetterD";
 import LetterI from "../assets/LetterI";
